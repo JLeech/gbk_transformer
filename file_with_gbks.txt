@@ -1,0 +1,3 @@
+#/home/eve/Documents/biology/load_data/Anolis_carolinensis/Anolis_2.gbk
+/home/eve/Documents/biology/load_data/Anolis_carolinensis/Anolis_1.gbk
+#/home/eve/Documents/biology/load_data/Gorilla_gorilla/gorilla.gbk
